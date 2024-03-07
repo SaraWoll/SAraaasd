@@ -15,6 +15,7 @@ body {
   }
 
 
+
   .conteudo-principal{
     display: flex;
     flex-direction: column;
@@ -58,7 +59,7 @@ body {
   .botoes{
     display: block;
   }
-  @media  and (min-width: 768px) {
+  @media screenscreen and (min-width: 768px) {
     .botoes {
       display: flex;
     }
